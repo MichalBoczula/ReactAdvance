@@ -1,10 +1,10 @@
 import React from "react";
-import ShowHide from "./tutorial/3-conditional-rendering/setup/3-show-hide";
+import UseRefBasics from "./tutorial/6-useReducer/setup/index";
 
 function App() {
   return (
     <div className="container">
-      <ShowHide></ShowHide>
+      <UseRefBasics></UseRefBasics>
     </div>
   );
 }
