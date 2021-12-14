@@ -1,10 +1,10 @@
 import React from "react";
-import UseRefBasics from "./tutorial/6-useReducer/setup/index";
+import PropDrilling from "./tutorial/7-prop-drilling/setup/1-prop-drilling";
 
 function App() {
   return (
     <div className="container">
-      <UseRefBasics></UseRefBasics>
+      <PropDrilling></PropDrilling>
     </div>
   );
 }
